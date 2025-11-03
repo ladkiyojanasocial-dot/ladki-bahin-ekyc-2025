@@ -1,0 +1,12 @@
+{
+  "name": "ladki-bahin-ekyc",
+  "version": "1.0.0",
+  "description": "Ladki Bahin Yojana eKYC Guide 2025 - static site on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
